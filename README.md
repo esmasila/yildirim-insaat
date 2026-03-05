@@ -88,7 +88,7 @@ yildirim-insaat/
 
 ### 1. Repoyu klonla
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/yildirim-insaat.git
+git clone https://github.com/esmasila/yildirim-insaat.git
 cd yildirim-insaat
 ```
 
